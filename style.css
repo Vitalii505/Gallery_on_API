@@ -1,0 +1,24 @@
+#app-root {
+  text-align: center;
+}
+.arrows {
+  font-size: 40px;
+}
+.img-container img {
+  width: 600px;
+  height: 500px;
+  border-radius: 1%;
+  border: solid 1px rgba(128, 128, 128, 0.418);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+i {
+  color: rgba(41, 72, 80, 0.466);
+  margin-bottom: 20px;
+}
+.fa-arrow-left {
+  margin-right: 60px;
+}
+.title {
+  font-size: 140%;
+  color: rgb(37, 58, 63);
+}
